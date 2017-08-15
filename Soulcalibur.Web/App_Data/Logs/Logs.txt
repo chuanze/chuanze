@@ -1,0 +1,192 @@
+DEBUG 2017-08-03 15:29:28,366 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-03 15:29:28,377 [1    ] Abp.Modules.AbpModuleManager             - Found 16 ABP modules in total.
+DEBUG 2017-08-03 15:29:28,384 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Soulcalibur.Web.SoulcaliburWebModule, Soulcalibur.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:28,386 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Soulcalibur.SoulcaliburDataModule, Soulcalibur.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:28,386 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:28,386 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:28,386 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:28,386 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:28,387 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:28,387 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Soulcalibur.SoulcaliburCoreModule, Soulcalibur.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:28,387 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Soulcalibur.SoulcaliburApplicationModule, Soulcalibur.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:28,387 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:28,387 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Soulcalibur.Api.SoulcaliburWebApiModule, Soulcalibur.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:28,388 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:28,388 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:28,388 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:28,388 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:28,388 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:28,390 [1    ] Abp.Modules.AbpModuleManager             - 16 modules loaded.
+DEBUG 2017-08-03 15:29:28,519 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2017-08-03 15:29:28,519 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2017-08-03 15:29:28,519 [1    ] o.Configuration.LanguageManagementConfig - Converted Soulcalibur (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2017-08-03 15:29:28,519 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2017-08-03 15:29:28,819 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: Soulcalibur.EntityFramework.SoulcaliburDbContext, Soulcalibur.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-03 15:29:30,500 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2017-08-03 15:29:30,507 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-03 15:29:30,512 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2017-08-03 15:29:30,515 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Soulcalibur
+DEBUG 2017-08-03 15:29:30,516 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-03 15:29:30,562 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2017-08-03 15:29:30,613 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 7 classes define auto mapping attributes
+DEBUG 2017-08-03 15:29:30,613 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Soulcalibur.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2017-08-03 15:29:30,615 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Soulcalibur.Sessions.Dto.UserLoginInfoDto
+DEBUG 2017-08-03 15:29:30,615 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Soulcalibur.Users.Dto.CreateUserInput
+DEBUG 2017-08-03 15:29:30,616 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Soulcalibur.Users.Dto.UserListDto
+DEBUG 2017-08-03 15:29:30,616 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Soulcalibur.MultiTenancy.Dto.CreateTenantInput
+DEBUG 2017-08-03 15:29:30,616 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Soulcalibur.MultiTenancy.Dto.TenantListDto
+DEBUG 2017-08-03 15:29:30,616 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Soulcalibur.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2017-08-03 15:29:31,606 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'Soulcalibur.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2017-08-03 15:29:31,608 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'Soulcalibur.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2017-08-03 15:29:31,609 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'Soulcalibur.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2017-08-03 15:29:31,610 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'Soulcalibur.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+WARN  2017-08-03 15:29:33,553 [9    ] Abp.Logging.LogHelper                    - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__22.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__20.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Nito.AsyncEx.AsyncContext.<>c__DisplayClass15_0.<Run>b__0(Task t)
+   at System.Threading.Tasks.ContinuationTaskFromTask.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Nito.AsyncEx.AsyncContext.Run(Func`1 action)
+   at Abp.Authorization.AuthorizationHelperExtensions.Authorize(IAuthorizationHelper authorizationHelper, MethodInfo methodInfo)
+   at Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<CheckPermissions>d__22.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Abp.Authorization.AuthorizationHelper.<AuthorizeAsync>d__20.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Nito.AsyncEx.AsyncContext.<>c__DisplayClass15_0.<Run>b__0(Task t)
+   at System.Threading.Tasks.ContinuationTaskFromTask.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Nito.AsyncEx.AsyncContext.Run(Func`1 action)
+   at Abp.Authorization.AuthorizationHelperExtensions.Authorize(IAuthorizationHelper authorizationHelper, MethodInfo methodInfo)
+   at Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+DEBUG 2017-08-03 15:29:40,416 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"81e24fb2-c2a5-413d-9b85-6db806b6aa70","IpAddress":"::1","TenantId":null,"UserId":null,"ConnectTime":"2017-08-03T15:29:40.4160156+08:00","Properties":{}}
+DEBUG 2017-08-03 15:29:40,450 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 81e24fb2-c2a5-413d-9b85-6db806b6aa70
+WARN  2017-08-03 15:33:13,927 [23   ] alibur.Web.Controllers.AccountController - Method arguments are not valid! See ValidationErrors for details.
+Abp.Runtime.Validation.AbpValidationException: Method arguments are not valid! See ValidationErrors for details.
+   at Abp.Runtime.Validation.Interception.MethodInvocationValidator.Validate()
+   at Abp.Web.Mvc.Validation.AbpMvcValidationFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.InvokeActionMethodFilterAsynchronouslyRecursive(Int32 filterIndex)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.InvokeActionMethodFilterAsynchronouslyRecursive(Int32 filterIndex)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.InvokeActionMethodFilterAsynchronouslyRecursive(Int32 filterIndex)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallBeginDelegate(AsyncCallback callback, Object callbackState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__19(AsyncCallback asyncCallback, Object asyncState)
+WARN  2017-08-03 15:33:13,929 [23   ] alibur.Web.Controllers.AccountController - There are 1 validation errors:
+WARN  2017-08-03 15:33:13,929 [23   ] alibur.Web.Controllers.AccountController - The Password field is required. (Password)
+WARN  2017-08-03 15:33:37,389 [13   ] alibur.Web.Controllers.AccountController - Login failed!
+Abp.UI.UserFriendlyException: Login failed!
+   at Soulcalibur.Web.Controllers.AccountController.<GetLoginResultAsync>d__11.MoveNext() in D:\Project\Soulcalibur\Soulcalibur.Web\Controllers\AccountController.cs:line 117
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Soulcalibur.Web.Controllers.AccountController.<Login>d__10.MoveNext() in D:\Project\Soulcalibur\Soulcalibur.Web\Controllers\AccountController.cs:line 87
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Mvc.Async.TaskAsyncActionDescriptor.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeAsynchronousActionMethod>b__36(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+WARN  2017-08-03 15:33:55,129 [13   ] alibur.Web.Controllers.AccountController - Login failed!
+Abp.UI.UserFriendlyException: Login failed!
+   at Soulcalibur.Web.Controllers.AccountController.<GetLoginResultAsync>d__11.MoveNext() in D:\Project\Soulcalibur\Soulcalibur.Web\Controllers\AccountController.cs:line 117
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Soulcalibur.Web.Controllers.AccountController.<Login>d__10.MoveNext() in D:\Project\Soulcalibur\Soulcalibur.Web\Controllers\AccountController.cs:line 87
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.Mvc.Async.TaskAsyncActionDescriptor.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeAsynchronousActionMethod>b__36(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+DEBUG 2017-08-03 15:33:56,748 [22   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 81e24fb2-c2a5-413d-9b85-6db806b6aa70
+DEBUG 2017-08-03 15:33:57,398 [11   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"2a3477d0-231f-4b15-9f10-c4c2c981968e","IpAddress":"::1","TenantId":null,"UserId":null,"ConnectTime":"2017-08-03T15:33:57.3984375+08:00","Properties":{}}
+DEBUG 2017-08-03 15:33:57,410 [21   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 2a3477d0-231f-4b15-9f10-c4c2c981968e
+DEBUG 2017-08-03 15:34:28,615 [31   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 2a3477d0-231f-4b15-9f10-c4c2c981968e
+DEBUG 2017-08-03 15:34:29,256 [23   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"56ebd4f2-1771-49f6-9cfb-bbe40e7c814b","IpAddress":"::1","TenantId":null,"UserId":null,"ConnectTime":"2017-08-03T15:34:29.2568359+08:00","Properties":{}}
+DEBUG 2017-08-03 15:34:29,264 [22   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 56ebd4f2-1771-49f6-9cfb-bbe40e7c814b
+DEBUG 2017-08-03 15:34:37,493 [28   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 56ebd4f2-1771-49f6-9cfb-bbe40e7c814b
+DEBUG 2017-08-03 15:34:37,995 [30   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"7e2bb363-8b4e-404a-abc8-3cbc10df6e44","IpAddress":"::1","TenantId":null,"UserId":null,"ConnectTime":"2017-08-03T15:34:37.9951171+08:00","Properties":{}}
+DEBUG 2017-08-03 15:34:38,003 [26   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 7e2bb363-8b4e-404a-abc8-3cbc10df6e44
+DEBUG 2017-08-03 15:35:52,485 [17   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"f078f6b9-0b9b-4b4c-a4c3-bb58f4da6e39","IpAddress":"::1","TenantId":null,"UserId":1,"ConnectTime":"2017-08-03T15:35:52.4853515+08:00","Properties":{}}
+DEBUG 2017-08-03 15:35:52,496 [27   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: f078f6b9-0b9b-4b4c-a4c3-bb58f4da6e39
+DEBUG 2017-08-03 15:36:12,332 [18   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: f078f6b9-0b9b-4b4c-a4c3-bb58f4da6e39
+DEBUG 2017-08-03 15:36:12,957 [28   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"5d33ca77-075b-44c4-aee6-22ea79db813c","IpAddress":"::1","TenantId":null,"UserId":1,"ConnectTime":"2017-08-03T15:36:12.9570312+08:00","Properties":{}}
+DEBUG 2017-08-03 15:36:12,973 [28   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 5d33ca77-075b-44c4-aee6-22ea79db813c
+DEBUG 2017-08-03 15:36:16,750 [28   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"073e4e3e-6722-4789-8a61-531ce02627fa","IpAddress":"::1","TenantId":null,"UserId":null,"ConnectTime":"2017-08-03T15:36:16.75+08:00","Properties":{}}
+DEBUG 2017-08-03 15:36:16,762 [20   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 073e4e3e-6722-4789-8a61-531ce02627fa
+DEBUG 2017-08-03 15:36:30,084 [28   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"9651b9ce-7c33-426f-9ed0-5f42efa83cab","IpAddress":"::1","TenantId":null,"UserId":1,"ConnectTime":"2017-08-03T15:36:30.0849609+08:00","Properties":{}}
+DEBUG 2017-08-03 15:36:30,096 [18   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 9651b9ce-7c33-426f-9ed0-5f42efa83cab
+DEBUG 2017-08-03 15:36:30,614 [20   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 7e2bb363-8b4e-404a-abc8-3cbc10df6e44
+DEBUG 2017-08-03 15:36:33,086 [17   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 9651b9ce-7c33-426f-9ed0-5f42efa83cab
+DEBUG 2017-08-03 15:36:33,536 [17   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"936995ba-712a-48f8-a71c-f25352859b73","IpAddress":"::1","TenantId":null,"UserId":1,"ConnectTime":"2017-08-03T15:36:33.5361328+08:00","Properties":{}}
+DEBUG 2017-08-03 15:36:33,543 [20   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 936995ba-712a-48f8-a71c-f25352859b73
+DEBUG 2017-08-03 15:36:39,204 [28   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 936995ba-712a-48f8-a71c-f25352859b73
+DEBUG 2017-08-03 15:36:39,671 [27   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"56ff2e27-0360-44fa-9037-376706a18506","IpAddress":"::1","TenantId":null,"UserId":1,"ConnectTime":"2017-08-03T15:36:39.671875+08:00","Properties":{}}
+DEBUG 2017-08-03 15:36:39,683 [27   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 56ff2e27-0360-44fa-9037-376706a18506
+DEBUG 2017-08-03 15:36:43,568 [18   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 56ff2e27-0360-44fa-9037-376706a18506
+DEBUG 2017-08-03 15:36:44,008 [28   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"72ad27e7-1a50-4c8f-9122-457ac4636e1a","IpAddress":"::1","TenantId":null,"UserId":1,"ConnectTime":"2017-08-03T15:36:44.008789+08:00","Properties":{}}
+DEBUG 2017-08-03 15:36:44,023 [27   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 72ad27e7-1a50-4c8f-9122-457ac4636e1a
+DEBUG 2017-08-03 15:36:50,631 [18   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 5d33ca77-075b-44c4-aee6-22ea79db813c
+DEBUG 2017-08-03 15:36:59,824 [17   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 72ad27e7-1a50-4c8f-9122-457ac4636e1a
+DEBUG 2017-08-03 15:37:00,266 [18   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"f4bd0fa8-04b0-4c9f-b559-4e9d8def5a22","IpAddress":"::1","TenantId":null,"UserId":1,"ConnectTime":"2017-08-03T15:37:00.265625+08:00","Properties":{}}
+DEBUG 2017-08-03 15:37:00,276 [17   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: f4bd0fa8-04b0-4c9f-b559-4e9d8def5a22
+DEBUG 2017-08-03 15:37:00,666 [16   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 073e4e3e-6722-4789-8a61-531ce02627fa
+DEBUG 2017-08-03 15:37:00,927 [28   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: f4bd0fa8-04b0-4c9f-b559-4e9d8def5a22
+DEBUG 2017-08-03 15:37:01,377 [18   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"183ae4fc-6830-4ac8-b953-581f7dac318c","IpAddress":"::1","TenantId":null,"UserId":1,"ConnectTime":"2017-08-03T15:37:01.3779296+08:00","Properties":{}}
+DEBUG 2017-08-03 15:37:01,387 [17   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 183ae4fc-6830-4ac8-b953-581f7dac318c
